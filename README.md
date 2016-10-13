@@ -31,5 +31,5 @@ The original source and design for this project was developed by [Jeff Haynie](h
 
 ## Legal
 
-Copyright (c) 2014 by [Appcelerator, Inc](http://www.appcelerator.com). All Rights Reserved.
+Copyright (c) 2014-2016 by [Appcelerator, Inc](http://www.appcelerator.com). All Rights Reserved.
 This project is licensed under the Apache Public License, version 2.  Please see details in the LICENSE file.
